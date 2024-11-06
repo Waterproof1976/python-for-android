@@ -1,4 +1,8 @@
-# python-for-android
+
+
+$ ssh -T -p 443 git@ssh.github.com
+# Hi USERNAME! You've successfully authenticated, but GitHub does not
+# provide shell access.# python-for-android
 
 python-for-android (p4a) is a development tool that packages Python apps into
 binaries that can run on Android devices.
